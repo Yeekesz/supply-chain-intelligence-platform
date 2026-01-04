@@ -1,0 +1,52 @@
+cat > .gitignore << 'EOF'
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.Python
+
+# Environment variables
+.env
+*.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Data files
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/analytics/*
+!data/analytics/.gitkeep
+*.csv
+*.parquet
+
+# Logs
+logs/
+*.log
+airflow/logs/*
+!airflow/logs/.gitkeep
+
+# Models
+*.pkl
+*.h5
+data/models/*
+!data/models/.gitkeep
+
+# OS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# pytest
+.pytest_cache/
+EOF

@@ -1,0 +1,46 @@
+project:
+  name: "DataFlow Supply Chain Platform"
+  version: "1.0.0"
+  description: "Real-Time Logistics Intelligence Platform"
+
+data_sources:
+  orders:
+    type: "postgresql"
+    refresh_interval: "5min"
+  
+  shipments:
+    type: "kafka_stream"
+    topics:
+      - "shipments-stream"
+  
+  inventory:
+    type: "mongodb"
+    collection: "products"
+
+pipelines:
+  batch:
+    schedule: "0 2 * * *"
+    batch_size: 10000
+  
+  streaming:
+    window_size: "5min"
+
+data_quality:
+  validation_on_write: true
+  alert_on_failure: true
+
+ml_models:
+  demand_forecasting:
+    algorithm: "prophet"
+    retrain_frequency: "weekly"
+  
+  delivery_prediction:
+    algorithm: "xgboost"
+
+storage:
+  data_lake:
+    path: "./data"
+    zones:
+      bronze: "raw"
+      silver: "processed"
+      gold: "analytics"
